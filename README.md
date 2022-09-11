@@ -1,1 +1,3 @@
 # repozytotium-test
+
+Opis projektu
